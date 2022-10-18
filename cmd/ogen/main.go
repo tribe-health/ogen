@@ -4,10 +4,10 @@ package main
 import (
 	"flag"
 	"fmt"
+	regexp "go.arsenm.dev/pcre"
 	"io"
 	"os"
 	"path/filepath"
-	"regexp"
 	"runtime"
 	"runtime/pprof"
 	"strings"

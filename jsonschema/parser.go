@@ -3,8 +3,8 @@ package jsonschema
 
 import (
 	"encoding/json"
+	regexp "go.arsenm.dev/pcre"
 	"math/big"
-	"regexp"
 
 	"github.com/go-faster/errors"
 	"golang.org/x/exp/slices"

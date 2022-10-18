@@ -2,7 +2,7 @@ package ir
 
 import (
 	"fmt"
-	"regexp"
+	regexp "go.arsenm.dev/pcre"
 	"strings"
 
 	"github.com/ogen-go/ogen/internal/naming"

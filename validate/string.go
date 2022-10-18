@@ -1,7 +1,7 @@
 package validate
 
 import (
-	"regexp"
+	regexp "go.arsenm.dev/pcre"
 	"unicode"
 
 	"github.com/go-faster/errors"

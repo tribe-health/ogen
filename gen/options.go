@@ -1,7 +1,7 @@
 package gen
 
 import (
-	"regexp"
+	regexp "go.arsenm.dev/pcre"
 	"strings"
 
 	"github.com/go-faster/errors"

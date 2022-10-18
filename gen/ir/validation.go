@@ -2,11 +2,10 @@ package ir
 
 import (
 	"fmt"
-	"math/big"
-	"regexp"
-
 	"github.com/go-faster/errors"
 	"github.com/go-faster/jx"
+	regexp "go.arsenm.dev/pcre"
+	"math/big"
 
 	"github.com/ogen-go/ogen/internal/xslices"
 	"github.com/ogen-go/ogen/jsonschema"

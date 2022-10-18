@@ -1,7 +1,7 @@
 package jsonschema
 
 import (
-	"regexp"
+	regexp "go.arsenm.dev/pcre"
 
 	"github.com/ogen-go/ogen/internal/location"
 )
